@@ -67,4 +67,7 @@ public class UserController {
         return "success";
 
     }
+    public void fenzhi1(){
+        System.out.print(22222222);
+    }
 }
